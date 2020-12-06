@@ -1,0 +1,29 @@
+.navbar{
+    background-color: rgb(5, 5, 48);
+}
+
+/* Social Media Section */
+#social-media {
+    background: #313552;
+  }
+  
+  /* Add color to Social Media Links */
+  .media_link {
+    padding: 1rem;
+    max-width: 15rem;
+    margin-left: 1rem;
+    border: 2px solid #f5ba09;
+    border-radius: 0.5rem;
+    display: flex;
+  }
+  .about {
+    background: #313552;
+    border-radius: 0.5rem;
+  }
+  
+  .card {
+    border-bottom: 8px solid #f5ba09;
+  }
+.view{
+    margin-top: 100px !important;
+}
